@@ -5,6 +5,7 @@
   
 ### Application Development
 - Appwrite - https://appwrite.io
+- Buildship - https://buildship.com
 - Quant-UX - https://www.quant-ux.com
 
 ### Backup Servers
@@ -48,6 +49,7 @@
 
 ### PDF Tools
 - Stirling - https://github.com/Frooodle/Stirling-PDF/
+  
 ### Remote Access
 - Guacamole - https://guacamole.apache.org/
 - RustDesk - https://rustdesk.com/
@@ -57,6 +59,11 @@
   
 ### Virtual Engines
 - Proxmox VE - https://proxmox.com
+
+### Wiki (Like Notify)
+- Outline - https://www.getoutline.com/
+- Anytype - https://anytype.io
+  
 
 
 ###### If you want to submit new SaaS, PaaS for me to check out feel free to PM me on Discord: Tempus Thales (or Tempus Thales#2600).
