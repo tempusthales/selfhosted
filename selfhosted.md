@@ -2,7 +2,7 @@
 
 ## AI
 - gpt4free-ts - https://github.com/chukowski/gpt4free-ts
-- 
+  
 ## Application Development
 - Appwrite - https://appwrite.io
 - Quant-UX - https://www.quant-ux.com
@@ -15,7 +15,6 @@
 - Homarr - https://homarr.dev/
 - Homepage - https://gethomepage.dev/
 - DashDot - https://github.com/MauriceNino/dashdot
-- 
   
 ## Docker
 - Portainer - https://portainer.io
