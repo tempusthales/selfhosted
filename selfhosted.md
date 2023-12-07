@@ -10,6 +10,12 @@
 ### Backup Servers
 - Proxmox Backup - https://www.proxmox.com/en/proxmox-backup-server/overview
 
+### CMS
+- Craft - https://craftcms.com
+- Protofy - https://www.protofy.xyz/
+- Strapi - https://strapi.io/
+- Ghost - https://ghost.org/
+  
 ### Dashboards
 - Dashy - https://dashy.to/
 - Homarr - https://homarr.dev/
