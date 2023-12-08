@@ -26,6 +26,9 @@
 ### Docker
 - Portainer - https://portainer.io
 
+### End-to-End Encryption
+- Crypter - https://github.com/Crypter-File-Transfer/Crypter
+
 ### Game Server Managers
 - Windows GSM - https://windowsgsm.com
 - Pterodactyl - https://pterodactyl.io
