@@ -2,6 +2,7 @@
 
 ### AI
 - gpt4free-ts - https://github.com/chukowski/gpt4free-ts
+- dify - https://github.com/langgenius/dify
   
 ### Application Development
 - Appwrite - https://appwrite.io
