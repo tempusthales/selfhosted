@@ -7,6 +7,7 @@
 ### Application Development
 - Appwrite - https://appwrite.io
 - Buildship - https://buildship.com
+- FlowiseAi - https://flowiseai.com/
 - Quant-UX - https://www.quant-ux.com
 
 ### Backup Servers
