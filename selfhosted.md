@@ -1,4 +1,4 @@
-# List of selfhosted SaaS, Paas I use.
+# List of selfhosted SaaS, Paas and some apps I use.
 
 ### AI
 - gpt4free-ts - https://github.com/chukowski/gpt4free-ts
@@ -10,27 +10,55 @@
 - FlowiseAi - https://flowiseai.com/
 - Quant-UX - https://www.quant-ux.com
 
-### Backup Servers
+### Virtual Environments
 - Proxmox Backup - https://www.proxmox.com/en/proxmox-backup-server/overview
+
+### CLI
+- Homebrew - https://brew.sh/
+- GitHub CLI - https://github.com/cli/cli
+- Cloudflared - Expose local servers to public internet over secure tunnels - https://github.com/cloudflare/cloudflared
 
 ### CMS
 - Craft - https://craftcms.com
 - Protofy - https://www.protofy.xyz/
 - Strapi - https://strapi.io/
 - Ghost - https://ghost.org/
+- Eleventy - https://11ty.dev
+  - Hylia Starter Kit - https://hylia.website/ 
   
 ### Dashboards
 - Dashy - https://dashy.to/
 - Homarr - https://homarr.dev/
 - Homepage - https://gethomepage.dev/
 - DashDot - https://github.com/MauriceNino/dashdot
+
+### Desktop Apps (macOS)
+- Arc Browser - https://arc.net/gift/94ff8364
+- Bartender - For managing Menu Bar - https://www.macbartender.com/
+  - Vanilla - Another alternative - https://matthewpalmer.net/vanilla/
+- Rocket - Because Emojis - https://matthewpalmer.net/rocket/
+- Raycast - Better Spotlight, better than Alfred - https://raycast.com/
+- f.lux - Put your eyeballs on chill mode - https://justgetflux.com/
+- Fork - Great git GUI - https://git-fork.com/
+- Docker Desktop - Because Docker? - https://www.docker.com/products/docker-desktop
+- Dato - A better date app for macOS - https://sindresorhus.com/dato
+- Prompt3 - The best SSH App for macOS - https://panic.com/prompt/
+- Cloudflare Warp - VPN Goodness - https://blog.cloudflare.com/1111-warp-better-vpn/
+- 
   
 ### Docker
 - Portainer - https://portainer.io
 
 ### Ecommerce
 - Thirty Bees - https://thirtybees.com/
-  
+
+### Editor
+- VS Code Insider's Edition - https://code.visualstudio.com/insiders/
+  - Theme: Houston - https://marketplace.visualstudio.com/items?itemName=astro-build.houston
+  - Font: Monaspaced Krypton: https://monaspace.githubnext.com/
+- Code Runner - https://coderunnerapp.com/
+- Zed - https://zed.dev
+
 ### End-to-End Encryption
 - Crypter - https://github.com/Crypter-File-Transfer/Crypter
 
@@ -72,6 +100,8 @@
 - Outline - https://www.getoutline.com/
 - Anytype - https://anytype.io
   
+
+
 
 
 ###### If you want to submit new SaaS, PaaS for me to check out feel free to PM me on Discord: Tempus Thales (or Tempus Thales#2600).
