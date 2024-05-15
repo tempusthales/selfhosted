@@ -44,7 +44,8 @@
 - Dato - A better date app for macOS - https://sindresorhus.com/dato
 - Prompt3 - The best SSH App for macOS - https://panic.com/prompt/
 - Cloudflare Warp - VPN Goodness - https://blog.cloudflare.com/1111-warp-better-vpn/
-- 
+- LMStudio - Provides an intuitive interface to easily manage and operate LLMs on a local machine. - https://lmstudio.ai
+- Ollama - Allows you to un, customize, and create models on macOS, Linux and Windows. - https://ollama.com
   
 ### Docker
 - Portainer - https://portainer.io
