@@ -3,6 +3,7 @@
 ### AI
 - gpt4free-ts - https://github.com/chukowski/gpt4free-ts
 - dify - https://github.com/langgenius/dify
+- Huggingface.co - Zero GPU Spaces - https://huggingface.co/spaces/enzostvs/zero-gpu-spaces
   
 ### Application Development
 - Appwrite - https://appwrite.io
