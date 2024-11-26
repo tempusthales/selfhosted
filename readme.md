@@ -87,7 +87,20 @@
 
 ### PDF Tools
 - Stirling - https://github.com/Frooodle/Stirling-PDF/
-  
+
+### Photo Management (Free)
+- Lychee - https://github.com/electerious/Lychee
+- LibrePhotos - https://github.com/LibrePhotos/librephotos
+- Photonix - https://github.com/photonixapp/photonix
+- PhotoPrism - https://github.com/photoprism/photoprism
+- Photoview - https://github.com/photoview/photoview
+- Pixelfed - https://github.com/pixelfed/pixelfed
+- ThumbsUp - https://github.com/thumbsup/thumbsup
+
+### Photo Management (Paid)
+- $60/yr Chevereto - https://github.com/chevereto/chevereto
+- $42/yr PhotoStructure - https://github.com/photostructure/photostructure-for-servers
+
 ### Remote Access
 - Guacamole - https://guacamole.apache.org/
 - RustDesk - https://rustdesk.com/
